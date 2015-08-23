@@ -18,8 +18,8 @@ phrase = "" #only set if an argument is passed.
 verbose = 1 #default to printing extra info
 
 ################## SET filehome to location of .lng files
-filehome = "/home/joela/Dropbox/python/langs/" #default
-
+#filehome = "/home/joela/Dropbox/python/langs/" #default
+filehome = "langs/" #default
 def bajor():
             global currlang
 
